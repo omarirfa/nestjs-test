@@ -6,7 +6,7 @@ I have done testing using [Resty] and [Postman] on localhost:3000/products where
 
 For the objectives, I was not able to complete I have the basic idea to do them but due to the time constraint I could not implement the required function. I can explain in more in detail once we talk.
    
-I hope you are doing well and have a wonderful day!
+You can find the relevant files in nestjs-test/src/products . I hope you are doing well and have a wonderful day!
 
 ### Objectives
 - Create a new bank account for a customer, with an initial deposit amount. A single customer may have multiple bank accounts. (Done)
